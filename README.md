@@ -32,7 +32,7 @@ Welcome to the Reinforcement Learning Course! My name is **Nguyễn Ngọc Phúc
 ## 🚀 How to Use This Course
 1. Clone the repository:
    ```sh
-   git clone <[repository-url](https://github.com/PhucCodeLo/reinforcement-learning-course-/tree/assignment)>
+   git clone [repository-url](https://github.com/PhucCodeLo/reinforcement-learning-course-/tree/assignment)
    ```
 2. Navigate to the course directory:
    ```sh
