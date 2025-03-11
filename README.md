@@ -29,17 +29,6 @@ Welcome to the Reinforcement Learning Course! My name is **Nguyễn Ngọc Phúc
 - Training an AI to play Tic-Tac-Toe
 - Hands-on coding and reinforcement learning application
 
-## 🚀 How to Use This Course
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/PhucCodeLo/reinforcement-learning-course-/tree/assignment
-   ```
-2. Navigate to the course directory:
-   ```sh
-   cd reinforcement-learning-course
-   ```
-4. Start learning by following the course lessons in the respective directories.
-
 ## 🎯 Features
 ✅ Comprehensive RL curriculum  
 ✅ Hands-on coding exercises  
