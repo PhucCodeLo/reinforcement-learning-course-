@@ -13,7 +13,7 @@ pip install pygame
 ## 🚀 How to Play
 1. Run the script using:
    ```sh
-   python tic_tac_toe.py
+   python game.py
    ```
 2. The game window will open with a 3x3 grid.
 3. **Player ("X")** moves first by clicking on an empty square.
